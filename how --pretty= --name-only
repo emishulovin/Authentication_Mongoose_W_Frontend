@@ -1,0 +1,19 @@
+[33mcommit cd9b6fe0727a62db81f6ee2bf07e6b1316183e49[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lazer <50752841+lazerbeam@users.noreply.github.com>
+Date:   Wed Sep 2 14:38:09 2020 -0500
+
+    ignoredd?
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex 1b23720..5b3de0c 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -81,7 +81,7 @@[m [mweb_modules/[m
+ # Optional npm cache directory[m
+ .npm[m
+ [m
+[31m-#    Optional eslint cache[m
+[32m+[m[32m# Optional eslint cache[m
+ .eslintcache[m
+ [m
+ # Microbundle cache[m
